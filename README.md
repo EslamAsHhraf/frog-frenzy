@@ -1,6 +1,6 @@
 <div align= >
 
-# <img align=center width=75px height=75px src="https://media3.giphy.com/media/du476yhpPXCc1wIYcb/giphy.gif?cid=ecf05e47e39bqg60nvldbp9ucxb7m7d4g6lsmkylifj8136x&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Frogger Game
+# 🐸 Frogger Game
 
 
 </div>
@@ -14,7 +14,7 @@
     <br> 
 </p>
 
-## <img align= center width=50px height=50px src="https://thumbs.gfycat.com/HeftyDescriptiveChimneyswift-size_restricted.gif"> Table of Contents
+## 📝 Table of Contents
 
 - <a href ="#about"> 📙 Overview</a>
 - <a href ="#started"> 💻 Get Started</a>
@@ -27,7 +27,7 @@
 
  <a id = "about"></a>
 
-## <img align="center"  width =70px  height =70px src="https://media2.giphy.com/media/D8cXneB3lSI5nlPw6n/giphy.gif?cid=ecf05e47jaerq4hltuyo9rl0p3z56ts18smsai3uhoyjcklr&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Overview
+## 📙 Overview
 <br>
 <ul> 
 <li>
@@ -69,7 +69,7 @@ The project has 2 phases.</li>
 <hr style="background-color: #4b4c60"></hr>
 <a id = "started"></a>
 
-## <img  align= center width=60px height=50px src="https://media3.giphy.com/media/du476yhpPXCc1wIYcb/giphy.gif?cid=ecf05e47e39bqg60nvldbp9ucxb7m7d4g6lsmkylifj8136x&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Get Started 
+## 🚀 Get Started 
 
 <ol>
 <li>Clone the repository.
@@ -95,7 +95,7 @@ git clone https://github.com/BasmaElhoseny01/frog-frenzy
 <hr style="background-color: #4b4c60"></hr>
 
 
-## <img align= "center" width=80px height=80px src="https://media2.giphy.com/media/dAu3qBzpmXstCTimDv/giphy.gif?cid=ecf05e475rq4hwxg7usfm1go2dc1pl5gpbnvo1izu6ph4yuh&rid=giphy.gif&ct=s"> Path of the program <a id ="Path"></a>
+## 📌 Path of the program <a id ="Path"></a>
 
 <ol>
 <li>When run the Project</li>
@@ -162,7 +162,7 @@ git clone https://github.com/BasmaElhoseny01/frog-frenzy
 <hr style="background-color: #4b4c60"></hr>
  <a id="structure"> </a>
 
-## <img align= center width=60px height=60px src="https://media1.giphy.com/media/igsIZv3VwIIlRIpq5G/giphy.gif?cid=ecf05e47faatmwdhcst7c2d4eontr459hjd35zf3an324elo&rid=giphy.gif&ct=s"> File Structure 
+## 🗃️ File Structure 
 <br>
 <div align= center>
 <img  height="450px" src="https://github.com/BasmaElhoseny01/frog-frenzy/assets/71986226/97bd1f07-1cae-4d27-9366-4e4624015c96">
@@ -170,7 +170,7 @@ git clone https://github.com/BasmaElhoseny01/frog-frenzy
 <hr style="background-color: #4b4c60"></hr>
 <a id ="video"></a>
 
-## <img  align= center width= 70px height =70px src="https://img.genial.ly/5f91608064ad990c6ee12237/bd7195a3-a8bb-494b-8a6d-af48dd4deb4b.gif?genial&1643587200063"> Demo
+## 🎥 Demo
 
 <div  align="center">
   <video align="center" height=300px  src="https://github.com/BasmaElhoseny01/frog-frenzy/assets/71986226/5b26b27b-59fb-4e5d-be19-877a0a832864">
@@ -180,7 +180,7 @@ git clone https://github.com/BasmaElhoseny01/frog-frenzy
 <hr style="background-color: #4b4c60"></hr>
 <a id ="contributors"></a>
 
-## <img  align="center" width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s"> Contributors 
+## 👑 Contributors 
 
 <table align="center" >
   <tr>
